@@ -1,5 +1,8 @@
 # dev00
 
+csc /r:System.dll /r:System.Windows.Forms.dll /r:System.Drawing.dll frm.cs
+
+
 test
 test2
 add csgrep
